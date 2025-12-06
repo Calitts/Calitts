@@ -1,4 +1,5 @@
-Welcome!
-Currently working my way into understanding Computer Engineering and Science
+# Welcome!
+I'm currently working my way into understanding Computer Engineering and Science
 
-Undergrad student, feel free to dm me on my socials!
+- Undergrad student
+- Feel free to dm me on my socials!
